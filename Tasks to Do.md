@@ -1,2 +1,2 @@
-1. Write a small test program and check if it works
-2. Commit & Push changes
+1. Try several exercises from Programiz.com
+2. Review Python concepts and relearn as you go
