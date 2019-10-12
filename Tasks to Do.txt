@@ -1,2 +1,2 @@
-1. Try to make a file in Gitpod 
-2. Push your changes and update your git repo
+1. Try to make a file in Gitpod
+2. Git add, git commit, Push your changes and update your git repo
